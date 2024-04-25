@@ -1,0 +1,18 @@
+.nav-header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    background: #f3f3f3;
+    padding: 1rem;
+}
+
+.nav-header h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.nav-header nav{
+    display: flex;
+    gap: 1rem;
+}

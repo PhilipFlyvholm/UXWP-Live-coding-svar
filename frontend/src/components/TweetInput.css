@@ -1,0 +1,21 @@
+.tweet-input{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.tweet-input-textarea{
+    width: 100%;
+    padding: 1rem;
+    border: 2px solid #f3f3f3;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+    min-height: 100px;
+    resize: vertical;
+}
+
+.tweet-input-button{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
